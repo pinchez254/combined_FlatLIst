@@ -1,4 +1,4 @@
-#  react-native combined_FlatLIst with  different data sources for react-native
+#   combined_FlatLIst with  different data sources for react-native
 The different data is to be rendered in horizontal flatlists
 A FlatList takes two functions, a renderItem and a keyExtractor. The keyExtractor is only necessary if your items don't have a key, and it is completely re-useable. So you will need a renderItem for every different FlatList that you plan on rendering.
 
